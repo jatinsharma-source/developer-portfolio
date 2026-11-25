@@ -7,22 +7,22 @@ Updated: 25 November 2026
 ## HackerRank
 
 - Profile URL: https://www.hackerrank.com/profile/jatinsharma-source
-- Problems solved: 0 (Say Hello, Python If-Else, Arithmetic Operators — to be completed)
-- Skill test taken: Python (Basic) — Pending
+- Problems solved: 3 (Say Hello, Python If-Else, Arithmetic Operators)
+- Skill test taken: Python (Basic)
 - Certificate: Pending | Certificate URL: not yet earned
 
 ## LeetCode
 
 - Profile URL: https://leetcode.com/u/jatinsharma-source/
-- Easy attempted: 0 (Two Sum, Palindrome Number — to be attempted)
-- Easy solved: 0
+- Easy attempted: 2 (Two Sum, Palindrome Number)
+- Easy solved: 2
 - Medium attempted: 0
 
 ## freeCodeCamp
 
 - Profile URL: https://www.freecodecamp.org/jatinsharma-source
 - Current track: Responsive Web Design
-- Steps completed: 0 / approx. 300 hours for full certification
+- Steps completed: 25 / approx. 300 hours for full certification
 
 ---
 
@@ -30,9 +30,9 @@ Updated: 25 November 2026
 
 Week of 23 November 2026:
 
-- [ ] 3 HackerRank Python problems
-- [ ] 1 LeetCode Easy problem
-- [ ] 10 freeCodeCamp steps
+- [x] 3 HackerRank Python problems
+- [x] 1 LeetCode Easy problem
+- [x] 10 freeCodeCamp steps
 
 ---
 
