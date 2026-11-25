@@ -1,6 +1,6 @@
 # K.R. Mangalam University | BCA (AI & Data Science) | Learning Roadmap
 
-**Student:** Jatin Sharma | **Roll No:** 2601060093 | **Batch:** 2024-28
+**Student:** Jatin Sharma | **Roll No:** 2601060093 | **Session:** 2026-2029
 **Programme:** Bachelor of Computer Applications (AI & Data Science)
 
 ---
