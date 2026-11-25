@@ -82,9 +82,9 @@ connects the Python, Linux, Git and web fundamentals I am learning now into comp
 2. **January 2027:** Solve 10 LeetCode Easy problems in Python and read each editorial.
 3. **February 2027:** Complete 25 freeCodeCamp steps (Cat Photo App Steps 1–15 and Cafe Menu Steps 1–10).
 
-**Mentor:** I plan to approach my CSE103 lab faculty member for guidance on repository quality and
-a senior B.Tech CSE student for advice on internship preparation. *(Add the faculty member's or
-senior's name here once confirmed.)*
+**Mentor:** I plan to approach **Mamta Mam**, my CSE103 lab faculty member, for guidance on
+repository quality and long-term planning, and a senior B.Tech CSE student for advice on
+internship preparation.
 
 ---
 
