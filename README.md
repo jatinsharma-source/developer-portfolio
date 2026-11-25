@@ -1,6 +1,6 @@
 # Jatin Sharma — Developer Portfolio
 
-> B.Tech CSE Student | K.R. Mangalam University, Gurugram | Batch 2024-28
+> BCA (AI & Data Science) Student | K.R. Mangalam University, Gurugram | Batch 2024-28 | Roll No 2601060093
 
 ---
 
